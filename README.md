@@ -33,4 +33,7 @@ Clink on create rule and select schedule as the target type and set desired freq
 Add Lambda as target.
 Select the lambda functions accordingly to to be triggered.
 
+
+Codes used for the lambda function is available in this repository.
+
 Test setup by verifying EC2 instances start and stop at scheduled times
